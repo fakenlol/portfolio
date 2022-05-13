@@ -1,0 +1,25 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#secondBar {
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.barButton {
+    margin: 0% 2% 0% 2%;
+}
+
+.subBarButton {
+    color: #eb6c6c;
+    border-bottom: 1px solid white;
+}
+
+.subBarButton:hover {
+    color: #8e4343;
+    border-bottom: 1px solid #8e4343;
+}

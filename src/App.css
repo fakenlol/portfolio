@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sansitabt-font {
+  font-family: "Sansita Bold Italic";
+}

@@ -1,0 +1,32 @@
+.presentation {
+    width: 100%;
+    margin-top: 5%;
+    min-height: 450px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+
+.presentation h1 {
+    color:darkgreen;
+    margin: 0% 0% 5% 0%;
+    font-weight: 400;
+}
+
+.text {
+    color: gray;
+}
+
+#testimonio {
+    padding: 5%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+@media (max-width: 1400px) {
+    .presentation {
+        flex-wrap: wrap;
+    }
+}
