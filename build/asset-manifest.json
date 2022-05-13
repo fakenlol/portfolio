@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb43d616.css",
-    "main.js": "/static/js/main.aec32a4b.js",
+    "main.css": "/static/css/main.a40a09b8.css",
+    "main.js": "/static/js/main.4fac903a.js",
     "static/media/Purple-in-Basic2.png": "/static/media/Purple-in-Basic2.5d835687817a926610ed.png",
     "static/media/Sansita-BoldItalic.ttf": "/static/media/Sansita-BoldItalic.5867475017b8916c88af.ttf",
+    "static/media/project-asterisk.svg": "/static/media/project-asterisk.72269ce077bc11749b18.svg",
     "static/media/Facundo Ferrari.svg": "/static/media/Facundo Ferrari.2e581acdaf6a6fac46235aa789be9f29.svg",
+    "static/media/Projects.svg": "/static/media/Projects.19090d4b37f9735a955d1c1c8de236b5.svg",
     "index.html": "/index.html",
-    "main.cb43d616.css.map": "/static/css/main.cb43d616.css.map",
-    "main.aec32a4b.js.map": "/static/js/main.aec32a4b.js.map"
+    "main.a40a09b8.css.map": "/static/css/main.a40a09b8.css.map",
+    "main.4fac903a.js.map": "/static/js/main.4fac903a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb43d616.css",
-    "static/js/main.aec32a4b.js"
+    "static/css/main.a40a09b8.css",
+    "static/js/main.4fac903a.js"
   ]
 }
