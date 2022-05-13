@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb43d616.css",
+    "main.js": "/static/js/main.aec32a4b.js",
+    "static/media/Purple-in-Basic2.png": "/static/media/Purple-in-Basic2.5d835687817a926610ed.png",
+    "static/media/Sansita-BoldItalic.ttf": "/static/media/Sansita-BoldItalic.5867475017b8916c88af.ttf",
+    "static/media/Facundo Ferrari.svg": "/static/media/Facundo Ferrari.2e581acdaf6a6fac46235aa789be9f29.svg",
+    "index.html": "/index.html",
+    "main.cb43d616.css.map": "/static/css/main.cb43d616.css.map",
+    "main.aec32a4b.js.map": "/static/js/main.aec32a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb43d616.css",
+    "static/js/main.aec32a4b.js"
+  ]
+}

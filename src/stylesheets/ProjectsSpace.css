@@ -1,0 +1,16 @@
+.projects-logo {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.projects-space {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.projects-land {
+    display: flex;
+    justify-content: center;
+}
