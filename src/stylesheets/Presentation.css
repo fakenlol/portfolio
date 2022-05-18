@@ -3,9 +3,22 @@
     margin: 5% 0% 10% 0%;
     min-height: 450px;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     overflow: hidden;
+}
+
+.presentation1 {
+    width: 100%;
+    margin: 5% 0% 2% 0%;
+    min-height: 450px;
+    display: flex;
+    align-items:flex-start;
+    overflow: hidden;
+}
+
+.presentation1 h1 {
+    color: purple;
 }
 
 .presentation h1 {
@@ -28,5 +41,9 @@
 @media (max-width: 1400px) {
     .presentation {
         flex-wrap: wrap;
+    }
+    .presentation1 {
+        flex-wrap: wrap;
+        justify-content: center;
     }
 }

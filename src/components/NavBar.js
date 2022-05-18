@@ -15,13 +15,13 @@ export function Encabezado() {
                 </Nav.Item>
                 <Nav id="secondBar">
                     <Nav.Item >
-                        <Nav.Link className="barButton" href="#home">
-                            <p className="subBarButton">Projects</p>
+                        <Nav.Link className="barButton" href="#aboutMe">
+                            <p className="subBarButton">About Me</p>
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="barButton">
-                        <Nav.Link href="#home">
-                            <p className="subBarButton">About Me</p>
+                        <Nav.Link href="#projects">
+                            <p className="subBarButton">Projects</p>
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="barButton">

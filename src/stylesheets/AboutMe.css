@@ -1,0 +1,37 @@
+#aboutMeHeader {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+#aboutMeBody {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.aboutme {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5% 0% 0% 0%;
+}
+
+#mySelfImage {
+    width: 20%;
+    margin: 0% 0% 0% 5%;
+}
+
+@media (max-width: 1400px){
+
+    .aboutme {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #mySelfImage {
+        min-width: 40%;
+        margin: 0%;
+    }
+}

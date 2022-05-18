@@ -1,7 +1,6 @@
 import "../stylesheets/Presentation.css";
 import { Image } from "react-bootstrap";
 import bgImage from "../imgs/Purple-in-Basic2.png";
-import { Container } from "react-bootstrap";
 
 export function Presentation() {
     return (

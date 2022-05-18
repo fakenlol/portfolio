@@ -7,13 +7,16 @@ import logoProjects from "../imgs/Projects.svg";
 
 export function ProjectsSpace() {
   return (
-    <div className="projects-space">
-      <Nav className="projects-logo">
-        <Nav.Item>
-          <Image src={logoProjects} fluid/>
-        </Nav.Item>
-      </Nav>
-      <Container className="projects-land">
+    <div id="projects" className="projects-space">
+      <div id="projectsHeader">
+        <Nav className="projects-logo">
+          <Nav.Item>
+            <Image src={logoProjects} fluid/>
+          </Nav.Item>
+        </Nav>
+        <h3 style={{'color': "gray"}}>These all my projects</h3>
+      </div>
+      <Container className="selector projects-land">
         <Project
           image="asterisk"
           ext="svg"

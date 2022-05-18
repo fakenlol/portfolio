@@ -12,5 +12,24 @@
 
 .projects-land {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media (min-width: 1400px) {
+    .projects-land {
+        margin-top: 2%;
+    }
+}
+
+@media (max-width: 1400px) {
+    .projects-land {
+        margin-top: 10%;
+    }
+}
+
+#projectsHeader {
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }

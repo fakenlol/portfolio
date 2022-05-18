@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a40a09b8.css",
-    "main.js": "/static/js/main.4fac903a.js",
+    "main.css": "/static/css/main.9f7b6dc3.css",
+    "main.js": "/static/js/main.989acd3a.js",
     "static/media/Purple-in-Basic2.png": "/static/media/Purple-in-Basic2.5d835687817a926610ed.png",
     "static/media/Sansita-BoldItalic.ttf": "/static/media/Sansita-BoldItalic.5867475017b8916c88af.ttf",
+    "static/media/zerotwo.webp": "/static/media/zerotwo.f94a840ef6ad1aa8e829.webp",
     "static/media/project-asterisk.svg": "/static/media/project-asterisk.72269ce077bc11749b18.svg",
     "static/media/Facundo Ferrari.svg": "/static/media/Facundo Ferrari.2e581acdaf6a6fac46235aa789be9f29.svg",
     "static/media/Projects.svg": "/static/media/Projects.19090d4b37f9735a955d1c1c8de236b5.svg",
+    "static/media/About Me.svg": "/static/media/About Me.3e6361e9d42dc19bd4d0e789c41103b9.svg",
     "index.html": "/index.html",
-    "main.a40a09b8.css.map": "/static/css/main.a40a09b8.css.map",
-    "main.4fac903a.js.map": "/static/js/main.4fac903a.js.map"
+    "main.9f7b6dc3.css.map": "/static/css/main.9f7b6dc3.css.map",
+    "main.989acd3a.js.map": "/static/js/main.989acd3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a40a09b8.css",
-    "static/js/main.4fac903a.js"
+    "static/css/main.9f7b6dc3.css",
+    "static/js/main.989acd3a.js"
   ]
 }
